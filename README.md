@@ -53,6 +53,10 @@ These additions are not part of the original dataset and are not intended to rep
 
 ---
 
+## Screenshots
+
+![Landing Page](./screenshots/01_Landing_Page.png)
+
 ## Project Summary
 
 - The number of air accidents peaked in the 1970s and has declined since.
