@@ -55,9 +55,21 @@ These additions are not part of the original dataset and are not intended to rep
 
 ## Screenshots
 
-| Dashboard View      |
+| Landing Page      |
 |---------------------|
 | ![Landing Page](./01_Landing_Page.png) |
+
+| Dashboard View      |
+|---------------------|
+| ![Dashboard View](./03_dashboard.png) |
+
+| Passengers detail     |
+|---------------------|
+| ![Passengers detail](./05_Fatality_Survivors_Details.png) |
+
+| Date detail     |
+|---------------------|
+| ![Date detail](./07_date_details.png) |
 
 ## Project Summary
 
