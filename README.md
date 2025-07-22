@@ -55,7 +55,9 @@ These additions are not part of the original dataset and are not intended to rep
 
 ## Screenshots
 
-![Landing Page](./screenshots/01_Landing_Page.png)
+| Dashboard View      |
+|---------------------|
+| ![Landing Page](./01_Landing_Page.png) |
 
 ## Project Summary
 
